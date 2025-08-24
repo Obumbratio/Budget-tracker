@@ -1,0 +1,28 @@
+# Python / Bytecode
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE / Editors
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Datos reales (no subir)
+expenses.csv
+
+# Bases de datos temporales (si llegas a usarlas)
+*.db
+*.sqlite
+*.sqlite3
