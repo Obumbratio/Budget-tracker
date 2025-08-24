@@ -3,9 +3,15 @@
 Aplicación de consola en **Python** para registrar y gestionar gastos usando un archivo **CSV**.  
 Incluye funcionalidades de agregar, listar, editar, eliminar y generar reportes con filtros.
 
+# 💸 Budget Tracker (CSV) v2
+
+A console application in **Python** to record and manage expenses using a **CSV** file.  
+Includes features to add, list, edit, delete, and generate reports with filters.
+
 ---
 
-## 🚀 Uso básico
+## 🚀 Basic Usage
+
 
 ```bash
 # Agregar gastos
